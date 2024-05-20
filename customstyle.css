@@ -43,8 +43,6 @@ text {
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    height: 100%;
-    width: 100%;
 }
 
 .WidgetCarusell{
@@ -63,6 +61,7 @@ text {
     flex-direction: column;
     gap: 20pt;
     width: 50%;
+    height: fit-content;
 }
 
 .FormWidget{
@@ -75,4 +74,5 @@ text {
     flex-direction: column;
     gap: 20pt;
     width: 50%;
+    height: fit-content;
 }
