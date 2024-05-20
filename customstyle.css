@@ -22,6 +22,11 @@ body {
     src: url('src/fonts/Roboto_Mono/RobotoMono-Bold.ttf');
 }
 
+img{
+    width: 100%;
+    height: 100%;
+}
+
 h1 {
     color: #FFCCD5;
     font-family: roboto_bold;
