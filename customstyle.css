@@ -55,7 +55,6 @@ text {
     align-items: center;
     box-shadow: 6px 6px;
     padding: 20pt;
-    height: fit-content;
     display: flex;
     flex-direction: column;
     gap: 20pt;
@@ -69,7 +68,6 @@ text {
     padding: 20pt;
     align-items: center;
     box-shadow: 6px 6px;
-    height: fit-content;
     display: flex;
     flex-direction: column;
     gap: 20pt;
