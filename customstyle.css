@@ -1,5 +1,5 @@
 body {
-    background-color: #FFCCD5;
+    background-color: #FF3355;
   }
 
 @font-face {
@@ -23,7 +23,7 @@ body {
 }
 
 h1 {
-    color: #FF3355;
+    color: #FFCCD5;
     font-family: roboto_bold;
     font-weight: bold;
     font-size: 100pt;
@@ -48,7 +48,7 @@ text {
 }
 
 .LAIAWidget{
-    background-color: #FF3355;
+    background-color: #ffffff;
     margin: 20pt;
     align-items: center;
     box-shadow: 6px 6px;
