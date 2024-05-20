@@ -9,7 +9,7 @@ h1 {
     font-size: larger;
   }
 
-.container{
+.Container{
     display: flex;
     justify-content: flex-start;
     align-items: center;
