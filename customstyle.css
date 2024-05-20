@@ -3,28 +3,28 @@ body {
   }
 
 @font-face {
-    font-family: 'roboto regular';
+    font-family: 'roboto_regular';
     src: url('src/fonts/Roboto/Roboto-Regular.ttf');
 }
 
 @font-face {
-    font-family: 'roboto bold';
+    font-family: 'roboto_bold';
     src: url('src/fonts/Roboto/Roboto-Bold.ttf');
 }
 
 @font-face {
-    font-family: 'roboto mono';
+    font-family: 'roboto_mono';
     src: url('src/fonts/Roboto_Mono/RobotoMono-Regular.ttf');
 }
 
 @font-face {
-    font-family: 'roboto mono bold';
+    font-family: 'roboto_mono_bold';
     src: url('src/fonts/Roboto_Mono/RobotoMono-Bold.ttf');
 }
 
 h1 {
     color: #FF3355;
-    font-family: roboto bold;
+    font-family: roboto_bold;
     font-weight: bold;
     font-size: 100pt;
   }
