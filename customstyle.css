@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #FFCCD5;
   }
 
 @font-face {
@@ -44,6 +44,7 @@ text {
     display: flex;
     flex-direction: row;
     width: 100%;
+    align-items: center;
 }
 
 .LAIAWidget{
@@ -52,6 +53,7 @@ text {
     align-items: center;
     box-shadow: 6px 6px;
     padding: 20pt;
+    height: fit-content;
 }
 
 .FormWidget{
@@ -60,4 +62,5 @@ text {
     padding: 20pt;
     align-items: center;
     box-shadow: 6px 6px;
+    height: fit-content;
 }
