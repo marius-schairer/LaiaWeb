@@ -57,7 +57,7 @@ text {
     display: flex;
     flex-direction: column;
     gap: 20pt;
-    max-height: 1000px;
+    width: 50%;
 }
 
 .FormWidget{
@@ -69,4 +69,5 @@ text {
     display: flex;
     flex-direction: column;
     gap: 20pt;
+    width: 50%;
 }
