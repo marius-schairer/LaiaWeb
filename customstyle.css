@@ -24,9 +24,12 @@ h1 {
 
 .LAIAWidget{
     background-color: #FF3355;
+    margin: 20pt;
+    align-items: center;
 }
 
 .FormWidget{
     background-color: #5533FF;
-
+    margin: 20pt;
+    align-items: center;
 }
