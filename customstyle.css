@@ -13,6 +13,13 @@ h1 {
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    flex-direction: column;
+}
+
+.WidgetCarusell{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
 }
 
 .LAIAWidget{
@@ -21,5 +28,5 @@ h1 {
 
 .FormWidget{
     background-color: #5533FF;
-    
+
 }
