@@ -4,22 +4,22 @@ body {
 
 @font-face {
     font-family: 'roboto regular';
-    src: url('/src/fonts/Roboto/Roboto-Regular.ttf');
+    src: url('src/fonts/Roboto/Roboto-Regular.ttf');
 }
 
 @font-face {
     font-family: 'roboto bold';
-    src: url('/src/fonts/Roboto/Roboto-Bold.ttf');
+    src: url('src/fonts/Roboto/Roboto-Bold.ttf');
 }
 
 @font-face {
     font-family: 'roboto mono';
-    src: url('/src/fonts/Roboto_Mono/RobotoMono-Regular.ttf');
+    src: url('src/fonts/Roboto_Mono/RobotoMono-Regular.ttf');
 }
 
 @font-face {
     font-family: 'roboto mono bold';
-    src: url('/src/fonts/Roboto_Mono/RobotoMono-Bold.ttf');
+    src: url('src/fonts/Roboto_Mono/RobotoMono-Bold.ttf');
 }
 
 h1 {
